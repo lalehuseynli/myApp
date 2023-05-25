@@ -1,0 +1,23 @@
+/* .list { 
+    display: inline;
+}  */
+
+.list li {
+    display: inline;
+    list-style: none;
+}
+
+.list a {
+    font-size: 22px;
+    color:
+#ff5703;
+}
+
+.text_yellow {
+    color: yellow !important; 
+}
+
+.logo {
+width: 200px;
+
+}
